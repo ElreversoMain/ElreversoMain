@@ -1,6 +1,6 @@
-                                                       
+                                                  # Olá seja bem vindo      
     
-    <div>
+  
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/felipe-santos-7243341a1/"><i>Felipe De Oliveira Santos</i></a> 😃️</h1>
   <p align="center"> Estudo Programação Full Stack na  <a href="https://www.labenu.com.br/?gclid=CjwKCAjwh-CVBhB8EiwAjFEPGaxgCgHZGugILjFftKefiriEfGcY31Kk6fzGUfwwJ2S55Hf5-zvceRoCpvAQAvD_BwE"><i>Labenu</i></a>E Estou Aprendendo Cada Mais Programação dando meu melhor  
   <p align="center">Estou Disposto a Aprender e Desenvolver Minhas Habilidades  😉️</h2>
