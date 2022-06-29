@@ -33,6 +33,6 @@
   
   <div align="center">
   
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+ ![Snake animation](https://github.com/ElreversoMain/ElreversoMain/blob/output/github-contribution-grid-snake.svg)
   
 </div>
