@@ -33,7 +33,6 @@
   
   <div align="center">
 
-  ![snake gif](https://github/ElreversoMain/ElreversoMain/blob/output/github-contribution-grid-snake.gif)
 
   
   
